@@ -45,6 +45,21 @@
 
 ---
 
+## Flashy TUI Sidebar for opencode
+
+Run this local terminal sidebar demo:
+
+```bash
+python3 /home/runner/work/EngineerTunerNorway/EngineerTunerNorway/opencode_sidebar.py
+```
+
+Controls:
+- `↑ / ↓` move selection
+- `Enter` trigger pulse effect
+- `q` quit
+
+---
+
 ## GitHub Stats
 
 <div align="center">
